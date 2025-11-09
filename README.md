@@ -57,11 +57,13 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     2000:34	           |           2000:55        |
+|     2001:12             |           2005:55        |
+|     2002:21	           |           2006:00        |
+|     2003:43	           |                          |
 
 #### Manual Calculations
-
-(Add your calculation here)
+![WhatsApp Image 2025-11-09 at 20 11 03_932a09ee](https://github.com/user-attachments/assets/4b6a79a7-177e-4687-8063-0c490e25eb6f)
 
 ---
 
@@ -108,11 +110,15 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|       2000:45	        |       2000:04            |
+|       2001:A4	        |       2005:72            |
+|       2002:41	        |       2006:00            |
+|       2003:32	        |                          |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-11-09 at 20 15 31_665856e4](https://github.com/user-attachments/assets/61a279c7-d964-4160-87d5-f94000366150)
+
 
 ---
 
@@ -129,9 +135,7 @@ END
 4. Store result.
 
 ##FLOWCHART
-
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
-
 
 
 #### Program
@@ -157,11 +161,14 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|      2000:22	        |        2000:A8           |
+|      2001:21            |	     2005:CC           |
+|      2002:14	        |        2006:57           |
+|      2003:21	        |        2007:02           |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-11-09 at 20 18 21_0bf5e3dd](https://github.com/user-attachments/assets/e444b907-9204-4e4f-9762-d791aec12985)
 
 ---
 
@@ -202,13 +209,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|       2000:33	        |        2000:03           |
+|       2001:33           |        2005:00           | 
+|       2002:11	        |        2006:00           |
+|       2003:11	        |        2007:00           |
+
 
 #### Manual Calculations
 
-(Add your calculation here)
 
----
+---![WhatsApp Image 2025-11-09 at 20 15 30_5cced354](https://github.com/user-attachments/assets/d4054c35-597d-414f-b411-621a09ddbb69)
+
 ## OUTPUT FROM MASM SOFTWARE
 
 
